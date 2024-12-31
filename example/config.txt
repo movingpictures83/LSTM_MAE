@@ -1,0 +1,2 @@
+Prefix plugins/LSTM_MAE/example/
+Plugin LSTM_MAE inputfile Merged-update_hourly.csv outputfile .
